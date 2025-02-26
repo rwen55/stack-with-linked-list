@@ -1,6 +1,6 @@
 # stack-with-linked-list
 
-Implementation of a Stack using a Linked List
+Implementation of a Stack using a Singly Linked List
 
 16 functions for the class were implemented to interact with the stack, examples include:
 
